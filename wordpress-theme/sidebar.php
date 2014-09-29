@@ -9,18 +9,14 @@
 
 ?>
 
-<div class="large-3 medium-3 columns" id="sidebar">
+<?php
 
-    <?php
+    wp_nav_menu( array(
+        'container' => 'false',
+        'fallback_cb' => 'false',
+        'menu_class' => 'sidenav menu_sidenav sidenav sidenav_main menu_sidenav_main',
+        'menu_id' => 'sidenav',
+        'theme_location' => 'sidenav'
+    ));
 
-        wp_nav_menu( array(
-            'container' => 'false',
-            'fallback_cb' => 'false',
-            'menu_class' => 'sidenav menu_sidenav sidenav sidenav_main menu_sidenav_main',
-            'menu_id' => 'sidenav',
-            'theme_location' => 'sidenav'
-        ));
-
-    ?>
-
-</div>
+?>

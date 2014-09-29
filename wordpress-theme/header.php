@@ -52,5 +52,3 @@
     <div class="row" id="main-top">
         
     </div>
-
-    <div class="row" id="main">
