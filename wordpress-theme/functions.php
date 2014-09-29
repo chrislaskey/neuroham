@@ -17,7 +17,7 @@
     add_shortcode('caption', 'cl_img_caption_shortcode');
 
     register_nav_menus(array(
-        'main' => 'Main Menu',
+        'sidenav' => 'Sidebar Navigation',
     ));
 
     register_sidebar(array(
@@ -29,17 +29,6 @@
         'before_title' => '<h3 class="widget-title">',
         'after_title' => '</h3>',
     ));
-
-    register_sidebar(array(
-        'name' => 'Homepage Widget Area',
-        'id' => 'homepage-widget-area',
-        'description' => 'The primary homepage widget area',
-        'before_widget' => '<li id="%1$s" class="widget-container %2$s">',
-        'after_widget' => '</li>',
-        'before_title' => '<h3 class="widget-title">',
-        'after_title' => '</h3>',
-    ));
-
 
 //Core function overrides via Hooks
     function cl_img_caption_shortcode($attr, $content = null) {
