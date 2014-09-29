@@ -4,6 +4,8 @@ About
 The front-end for the [NeuroHAM](http://neuroham.bu.edu) conference website.
 Custom design and front-end code, wrapped up as a WordPress theme.
 
+![NeuroHAM Front-end Home Page Design](design.png)
+
 
 License
 ================================================================================
