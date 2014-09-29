@@ -17,28 +17,28 @@
                 <div class="large-3 columns sponsor-container">
                     <div class="sponsor">
                         <a href="http://celest.bu.edu" target="blank">
-                            <img alt="CELEST" src="<?php echo CL_TEMPLATEPATH; ?>/img/sponsor-celest.png"/>
+                            <img alt="CELEST" src="<?php echo CL_TEMPLATEPATH; ?>/images/sponsor-celest.png"/>
                         </a>
                     </div>
                 </div>
                 <div class="large-3 columns sponsor-container">
                     <div class="sponsor">
                         <a href="http://compnet.bu.edu" target="blank">
-                            <img alt="CompNet" src="<?php echo CL_TEMPLATEPATH; ?>/img/sponsor-compnet.png"/>
+                            <img alt="CompNet" src="<?php echo CL_TEMPLATEPATH; ?>/images/sponsor-compnet.png"/>
                         </a>
                     </div>
                 </div>
                 <div class="large-3 columns sponsor-container">
                     <div class="sponsor">
                         <a href="http://nsf.gov" target="blank">
-                            <img alt="NSF" src="<?php echo CL_TEMPLATEPATH; ?>/img/sponsor-nsf.png"/>
+                            <img alt="NSF" src="<?php echo CL_TEMPLATEPATH; ?>/images/sponsor-nsf.png"/>
                         </a>
                     </div>
                 </div>
                 <div class="large-3 columns sponsor-container">
                     <div class="sponsor">
                         <a href="http://www.bu.edu" target="blank">
-                            <img alt="Boston University" src="<?php echo CL_TEMPLATEPATH; ?>/img/sponsor-bu.png"/>
+                            <img alt="Boston University" src="<?php echo CL_TEMPLATEPATH; ?>/images/sponsor-bu.png"/>
                         </a>
                     </div>
                 </div>
