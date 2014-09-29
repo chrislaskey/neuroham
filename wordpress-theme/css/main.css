@@ -226,7 +226,7 @@ th {
  * ============================================================================ */
 
 body {
-    background: #1275a8 url('../img/header-background.jpg') top center no-repeat;
+    background: #1275a8 url('../images/header-background.jpg') top center no-repeat;
     background-size: cover;
 }
 
@@ -242,7 +242,7 @@ a {
 }
 
 #logo {
-    background: url('../img/logo.png') top left no-repeat;
+    background: url('../images/logo.png') top left no-repeat;
     height: 50px;
     width: 466px;
 }
@@ -306,7 +306,7 @@ a {
  * ============================================================================ */
 
 #main-top {
-    background: url('../img/main-background-top.png') top center no-repeat;
+    background: url('../images/main-background-top.png') top center no-repeat;
     height: 46px;
 }
 
@@ -316,7 +316,7 @@ a {
 }
 
 #main-bottom {
-    background: #0b5278 url('../img/main-background-bottom.png') top center no-repeat;
+    background: #0b5278 url('../images/main-background-bottom.png') top center no-repeat;
     height: 46px;
 }
 
