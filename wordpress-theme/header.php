@@ -18,7 +18,7 @@
     <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
     <link rel="icon" type="image/x-icon" href="/favicon.png" />
 
-    <title><?php echo (isset($uri) && count($uri) > 0 ) ? create_page_title($uri) : 'NeuroHAM'; ?></title>
+    <title>NeuroHAM</title>
 
     <link rel="stylesheet" href="<?php echo CL_TEMPLATEPATH; ?>/css/foundation.css" />
     <link rel="stylesheet" href="<?php echo CL_TEMPLATEPATH; ?>/css/main.css" />
