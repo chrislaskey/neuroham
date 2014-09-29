@@ -9,7 +9,7 @@
  * located in the functions.php file
  *
  * @package WordPress
- * @subpackage CELEST Responsive
+ * @subpackage NeuroHAM
  * @since 3.0.0
  */
 
