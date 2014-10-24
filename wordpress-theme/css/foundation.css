@@ -50,9 +50,9 @@
     font-family: 'Noteworthy';
     font-style: normal;
     font-weight: 400;
-    src: local('Noteworthy Regular'), local('Noteworthy-Regular'),
-         url('../fonts/Noteworthy-Regular.woff') format('woff'),
-         url('../fonts/Noteworthy-Regular.ttf')  format('truetype');
+    src: local('Noteworthy Light'), local('Noteworthy-Light'),
+         url('../fonts/Noteworthy-Light') format('woff'),
+         url('../fonts/Noteworthy-Light')  format('truetype');
 }
 
 /* Zurb Foundation 5
